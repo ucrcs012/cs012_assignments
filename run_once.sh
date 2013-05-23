@@ -1,6 +1,2 @@
-
-#find home
-home_dir=""
-
-
-new_bashrc = "source ~/${home_dir}/bin/bashrc_cs010_defaults.sh"
+# Call the run_once.sh file in the .bin directory.
+sh ./.bin/run_once.sh
