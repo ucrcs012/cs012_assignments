@@ -15,4 +15,4 @@
 /// @par Plagiarism Section
 /// I hereby certify that the code in this file
 /// is ENTIRELY my own original work.
-//  ================== END ASSESSMENT HEADER ===============
+//  =============== END ASSESSMENT HEADER ==================

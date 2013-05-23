@@ -1,21 +1,21 @@
 //  =============== BEGIN ASSESSMENT HEADER ================
 /// @file assignment00/hello_world.cpp 
-/// @brief Assignment 0 for CS 10 <quarter & year>
+/// @brief Assignment 00 for CS 10 Winter 2013
 ///
-/// @author <Your name> [<Your UCRSub login email>]
-/// @date <Current date>
+/// @author Jane Doe [jdoe099@ucr.edu]
+/// @date March 12, 2013
 ///
 /// @par Enrollment Notes 
-///     Lecture Section: <e.g. 001>
+///     Lecture Section: 001
 /// @par
-///     Lab Section: <e.g. 021>
+///     Lab Section: 021
 /// @par
-///     TA: <TA name>
+///     TA: John Smith
 ///
 /// @par Plagiarism Section
 /// I hereby certify that the code in this file
 /// is ENTIRELY my own original work.
-//  ================== END ASSESSMENT HEADER ===============
+//  =============== END ASSESSMENT HEADER ==================
 #include <iostream>
 
 using namespace std;
