@@ -1,6 +1,6 @@
 //  =============== BEGIN ASSESSMENT HEADER ================
 /// @file assignment<#>/main.cpp 
-/// @brief Assignment/Lab <#, e.g. 1,2,3..10> for CS 10 <quarter & year>
+/// @brief Assignment/Lab <#, e.g. 1,2,3..10> for CS 12v <quarter & year>
 ///
 /// @author <Your name> [<Your UCRSub login email>]
 /// @date <Current date>
