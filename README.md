@@ -1,7 +1,7 @@
-cs010_assignments
+cs012_assignments
 =================
 
-The CS010(v) assignments repository is used to set up your Cloud 9 
+The CS012(v) assignments repository is used to set up your Cloud 9 
 **private** workspace 
 *(you may never collaborate on programming assignments, so this workspace has to be private!)*
 
